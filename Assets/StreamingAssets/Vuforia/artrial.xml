@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="shipt" size="50.000000 70.721359" />
+    <ImageTarget name="boat" size="50.000000 70.721359" />
+    <ImageTarget name="helit" size="50.000000 70.721359" />
+    <ImageTarget name="aerot" size="50.000000 70.721359" />
+    <ImageTarget name="biket" size="50.000000 70.721359" />
+    <ImageTarget name="Ambt" size="50.000000 70.721359" />
+    <ImageTarget name="truckt" size="50.000000 70.721359" />
+    <ImageTarget name="bust" size="50.000000 70.721359" />
+    <ImageTarget name="traint" size="50.000000 70.721359" />
+    <ImageTarget name="subt" size="50.000000 70.721359" />
+    <ImageTarget name="cartt" size="50.000000 70.721359" />
+    <ImageTarget name="car_t" size="50.000000 70.721359" />
+    <ImageTarget name="bicyclet" size="50.000000 70.721359" />
+    <ImageTarget name="bicycle" size="50.000000 70.721359" />
+    <ImageTarget name="car" size="50.000000 70.721359" />
+    <ImageTarget name="transport" size="50.000000 70.721359" />
+    <ImageTarget name="14" size="50.000000 70.721359" />
+    <ImageTarget name="13" size="50.000000 70.721359" />
+    <ImageTarget name="12" size="50.000000 70.721359" />
+    <ImageTarget name="11" size="50.000000 70.721359" />
+    <ImageTarget name="10" size="50.000000 70.721359" />
+    <ImageTarget name="8" size="50.000000 70.721359" />
+    <ImageTarget name="7" size="50.000000 70.721359" />
+    <ImageTarget name="6" size="50.000000 70.721359" />
+    <ImageTarget name="5" size="50.000000 70.721359" />
+    <ImageTarget name="4" size="50.000000 70.721359" />
+    <ImageTarget name="transport1" size="100.000000 133.333328" />
+  </Tracking>
+</QCARConfig>
